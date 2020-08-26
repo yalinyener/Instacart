@@ -13,10 +13,10 @@ The classification predictive modelling is the task of approximating the mapping
 ## Objective and Goal:
 
 Finding customer behaviour by using market basket analysis techniques and try to predict next order
- 
+
 ## About Instacart:
 
-Instacart is an American company that operates a grocery delivery and pick-up service in the United States and Canada with headquarters in San Francisco.[2] The company offers service via a website and mobile app in 5,500 cities in all 50 U.S. states and Canadian provinces in partnership with over 350 retailers that have more than 25,000 grocery stores including Albertsons, Aldi, Big Lots, C&S Wholesale Grocers, Costco, CVS Health, Eataly, Price Chopper, H-E-B, Kroger, Loblaw Companies, Petco, Publix, Safeway Inc., Sam's Club, Sprouts Farmers Market, Staples U.S., Target Corporation, Total Wine & More, and Wegmans. (Wikipedia)
+Instacart is an American company that operates a grocery delivery and pick-up service in the United States and Canada with headquarters in San Francisco. The company offers service via a website and mobile app in 5,500 cities in all 50 U.S. states and Canadian provinces in partnership with over 350 retailers that have more than 25,000 grocery stores including Albertsons, Aldi, Big Lots, C&S Wholesale Grocers, Costco, CVS Health, Eataly, Price Chopper, H-E-B, Kroger, Loblaw Companies, Petco, Publix, Safeway Inc., Sam's Club, Sprouts Farmers Market, Staples U.S., Target Corporation, Total Wine & More, and Wegmans. (Wikipedia)
 
 ## Instacart Data:
 Data obtained from Kaggle Instacart
