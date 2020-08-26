@@ -12,7 +12,16 @@ The classification predictive modelling is the task of approximating the mapping
 
 ## Objective and Goal:
 
-Finding customer behaviour by using market basket analysis techniques and try to predict next order
+Finding customer behaviour by using market basket analysis techniques and try to predict next order.
+* CSV to PostgreSQL
+* Join Tables
+* Feature Engineering
+* Connect PostgreSQL to Pandas
+* Exploratory Data Analysis
+* Applying RFM Algorithm
+* Determining LCV
+* Predicting Reorder Product
+
 
 ## About Instacart:
 
